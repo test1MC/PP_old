@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 1 Viewing Concepts"
+    Link="/Content/Concepts/Viewing_and_Renaming_Concepts.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    PageNumber="1"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Viewing and Concepts in Concept Links"
+    Link="/Content/Concepts/Viewing_and_Renaming_Concept_Links.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 3 Viewing Topics Without Concepts"
+    Link="/Content/Concepts/Viewing_Topics_Without_Concepts.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+</CatapultToc>

@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target"
+  conditions="Products.Contributor">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Align/AlignTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerConceptsGuide"
+      Type="PDF"
+      LastBuilt="2016-03-23T16:30:23.9975726-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerConditionTagsGuide"
+      Type="PDF"
+      LastBuilt="2016-03-23T16:30:25.7035215-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerCSHGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerFileTagsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerFrequentSegmentsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerGettingStartedGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerIndexGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerKeyFeaturesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerLinksGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerReportsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerShortcutsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerSnippetsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerStatisticsAndChartsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerStylesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerSuggestionsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerTOCsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerTopicsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerTouringWorkspaceGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerTrackChangesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerUndefinedItemsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerUnusedItemsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerVariablesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Analyzer/AnalyzerWhatsNewGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureCreatingImagesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureEditingImagesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureGettingStartedGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureKeyFeaturesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureShortcuts"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureTouringWorkspaceGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/CaptureWhatsNewGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/ContributorContributionWorkflowGuide"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/ContributorGettingStartedGuide"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/ContributorReviewWorkflowGuide"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/ContributorShortcuts"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/ContributorTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/ContributorWhatsNewGuide"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HCSHGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HDocumentsTemplatesContentGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HGettingStartedGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HHTML"
+      Type="HTML Help" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HMakingItLookGoodGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HManagingYourProjectGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HNewUserTutorial"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HSandcastleGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HShortcuts"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HTargetsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HTouringTheWorkspaceGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HUpgradingOldProjects"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2HWhatsNewGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat Sheets/FlareFoldersFilesCheatSheet"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat Sheets/FlarePrintOutputCheatSheet"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat Sheets/FlareShortcutsCheatSheet"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat Sheets/FlareStructureBarsCheatSheet"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat Sheets/FlareStylesCheatSheet"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Flare3FoldoutTutorial"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareAccessibilityGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareAnalyzerAndReportsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareAutoNumbersGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareConditionTagsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareCSHGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareDNHGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareEclipseHelpGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareGettingStartedGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareGettingStartedTutorial"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareGlobalProjectLinkingGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareHTML5Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareHTMLHelpGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareImagesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareImportGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareIndexGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareKeyFeaturesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareLanguageSupportGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareMoviesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareNavigationLinksGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlarePrintedOutputGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareProjectGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlarePulseGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareQRCodeGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareReviewsAndContributionsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSearchGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSharepointGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSkinsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSnippetsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSourceControlGuideGit"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSourceControlGuidePerforce"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSourceControlGuideSubversion"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSourceControlGuideTFS"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareSourceControlGuideVSS"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareStylesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTablesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTargetsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTemplatesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTOCGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTopicsGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTopNavAdvTutorial"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTouringWorkspaceGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTransitionFromFrameMakerGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareTripanePDFAdvTutorial"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareVariablesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareWebHelpGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/FlareWhatsNewGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HelpViewer/HelpViewerDotNetHelp"
+      Type="DotNet Help" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoAlignmentGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoGettingStartedGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoKeyFeaturesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoShortcuts"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoTermbaseGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoTouringWorkspaceGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoTranslationGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/LingoWhatsNewGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicGettingStartedGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicKeyFeaturesGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicMovieCreationGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicMovieEditingGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicMovieGenerationGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicShortcuts"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicTouringTheWorkspaceGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/MimicWhatsNewGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MovieViewer/MovieViewerTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseDashboardAdminGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseServer2008InstallationGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseServer2008R2InstallationGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseServer2012InstallationGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseTopNav"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseUpgradingGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseUserGuide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/PulseWhatsNewGuide"
+      Type="PDF" />
+  </Targets>
+</CatapultBatchTarget>

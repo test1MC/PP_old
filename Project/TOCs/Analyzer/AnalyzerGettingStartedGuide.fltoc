@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Introduction_Topics/Analyzer/WelcomeAnalyzer.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Getting Additional Help"
+      Link="/Content/PrintOnlyTopics/Getting_Help.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Opening Projects"
+    Link="/Content/Introduction_Topics/Analyzer/Opening_Projects_Analyzer.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageType="firstright"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 3 Viewing Current Issues"
+    Link="/Content/Introduction_Topics/Analyzer/Viewing_Current_Issues.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageType="firstright"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 4 Viewing Issues for Specific Files"
+    Link="/Content/Introduction_Topics/Analyzer/Viewing_Issues_for_Specific_Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 5 About Reports"
+    Link="/Content/Analyzer/Reports/Reports.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Generating Reports"
+      Link="/Content/Analyzer/Reports/Generating_Reports.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

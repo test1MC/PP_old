@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false" />
+  <TocEntry
+    Title="CH 1 About Frequent Segments"
+    Link="/Content/Frequent_Segments/About_Frequent_Segments.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 2 Viewing Frequent Segments"
+    Link="/Content/Frequent_Segments/Viewing_Frequent_Segments.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Customizing Frequent Segments Shown"
+    Link="/Content/Frequent_Segments/Customizing_Frequent_Segments_Shown.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Converting Frequent Segments to Snippets"
+    Link="/Content/Frequent_Segments/Converting_Frequent_Segments_to_Snippets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Converting Frequent Segments to Variables"
+    Link="/Content/Frequent_Segments/Converting_Frequent_Segments_to_Variables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Viewing Similar Segments"
+    Link="/Content/Frequent_Segments/Viewing_Similar_Segments.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Viewing Topics for a Selected Item"
+    Link="/Content/Topics/Viewing_Topics_for_a_Selected_Item.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

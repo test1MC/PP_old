@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman" />
+  <TocEntry
+    Title="CH 1 Viewing and Renaming Used Variables"
+    Link="/Content/Variables/Viewing_and_Renaming_Used_Variables.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="reset"
+    PageNumberFormat="decimal"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 2 Viewing and Fixing Undefined Variables"
+    Link="/Content/Variables/Viewing_Undefined_Variables.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 3 Viewing Unused Variables"
+    Link="/Content/Variables/Viewing_Unused_Variables.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 4 Viewing and Converting Variable Suggestions"
+    Link="/Content/Variables/Viewing_Variable_Suggestions.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageType="firstright"
+    Title="APPENDIX PDF Library"
+    StartPageLayout="false"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

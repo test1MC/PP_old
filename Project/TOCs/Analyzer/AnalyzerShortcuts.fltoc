@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="Shortcut Keys"
+    Link="/Content/PrintOnlyTopics/AnalyzerPDFs/Shortcuts/Keyboard_Shortcuts_Keys.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/CheatSheetLetterFirstPage3Columns.flpgl"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="Shortcuts Keys2"
+    Link="/Content/PrintOnlyTopics/AnalyzerPDFs/Shortcuts/Keyboard_Shortcuts_Keys2.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/CheatSheetLetter3Columns.flpgl"></TocEntry>
+  <TocEntry
+    Title="Shortcuts Tasks"
+    Link="/Content/PrintOnlyTopics/AnalyzerPDFs/Shortcuts/Keyboard_Shortcuts_Tasks.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/CheatSheetLetter3Columns.flpgl" />
+</CatapultToc>

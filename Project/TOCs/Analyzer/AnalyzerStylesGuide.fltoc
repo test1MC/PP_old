@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    VolumeNumberReset="same"
+    StartSection="false"
+    StartPageLayout="true"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" />
+  <TocEntry
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    Link="/Content/Styles/Viewing_Style_Suggestions.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberFormat="decimal"
+    PageNumberReset="continue"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    StartChapter="true"
+    StartPageLayout="false"
+    StartSection="false"
+    Title="CH 1 Styles"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Link="/Content/Styles/Viewing_and_Replacing_Local_Style_Suggestions.htm"
+    Title="CH 2 Viewing and Replacing Local Style Suggestions"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    Link="/Content/Styles/Viewing_Duplicate_Styles.htm"
+    Title="CH 3 Viewing Duplicate Styles"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    Link="/Content/Styles/Viewing_Undefined_Styles.htm"
+    Title="CH 4 Viewing and Fixing Undefined Styles"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    Link="/Content/Styles/Viewing_Unused_Styles.htm"
+    Title="CH 5 Viewing Unused Styles"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageType="firstright"
+    Title="APPENDIX PDF Library"
+    StartPageLayout="false"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman" />
+  <TocEntry
+    Title="CH 1 Viewing Files with Annotations"
+    Link="/Content/Reviews_and_Contributions/Annotations/Viewing_Files_With_Annotations.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartSection="false"
+    PageNumber="(multiple)"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="CH 2 Viewing Files with Changes"
+    Link="/Content/Reviews_and_Contributions/Track_Changes/Viewing_Files_With_Changes.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageType="firstright"
+    Title="APPENDIX PDF Library"
+    StartPageLayout="false"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

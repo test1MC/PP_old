@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartSection="false"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    VolumeNumberReset="same"
+    StartPageLayout="false"
+    SectionNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Link="/Content/Charts/About_Charts.htm"
+    VolumeNumberReset="same"
+    Title="CH 1 About Charts"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    SectionNumberReset="continue"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    ChapterNumberReset="reset"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="1" />
+  <TocEntry
+    Link="/Content/Charts/Creating_Charts.htm"
+    Title="CH 2 Creating Charts"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    Link="/Content/Charts/Editing_Chart_Styles.htm"
+    VolumeNumberReset="same"
+    Title="CH3 Editing Chart Styles"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    SectionNumberReset="continue"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Link="/Content/Printing/Printing.htm"
+    Title="CH 4 Printing Charts"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    ChapterNumberReset="continue"
+    Link="/Content/Statistics/Viewing_Statistics.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    StartChapter="true"
+    StartPageLayout="false"
+    StartSection="false"
+    Title="CH 5 Statistics and Charts"
+    VolumeNumberReset="same" />
+  <TocEntry
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageType="firstright"
+    Title="APPENDIX PDF Library"
+    StartPageLayout="false"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

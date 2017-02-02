@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleAnalyzer.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false" />
+  <TocEntry
+    Title="CH 1 Viewing Broken Links"
+    Link="/Content/Nav_Links/Analyzer/Viewing_Broken_Links.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="reset"
+    PageNumberFormat="decimal"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Viewing and Fixing Broken Bookmarks"
+    Link="/Content/Nav_Links/Analyzer/Viewing_Broken_Bookmarks.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Viewing Named Destinations"
+    Link="/Content/Nav_Links/Named_Destinations/Viewing_Named_Destinations.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 4 Viewing and Fixing Absolute Links"
+    Link="/Content/Nav_Links/Analyzer/Viewing_Absolute_Links.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Viewing and Checking External Links"
+    Link="/Content/Nav_Links/Analyzer/Viewing_External_Links.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Viewing Topics Not Linked"
+    Link="/Content/Nav_Links/Analyzer/Viewing_Topics_Not_Linked.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Viewing Cross-Reference Suggestions"
+    Link="/Content/Nav_Links/Cross_References/Viewing_and_Converting_Cross_Reference_Suggestions.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 8 Viewing File Links"
+    Link="/Content/Files/Viewing_File_Links.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 9 Viewing Unused Bookmarks"
+    Link="/Content/Nav_Links/Bookmarks/Viewing_Unused_Bookmarks.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

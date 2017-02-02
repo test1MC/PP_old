@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="103" MadCap:lastWidth="765">
+    <body>Single-bound projects are not bound to a third-party source control provider, and only use Central's connection to Git for source control. Dual-bound projects, on the other hand, are already bound to another source control provider, and therefore are bound to both the original third-party source control provider and Git (through Central's connection to Git). <MadCap:conditionalText MadCap:conditions="Snippets.Snippet22">See <MadCap:xref href="../../../Projects/Using_Source_Control_with_Projects_in_Central.htm">Using Source Control with Projects in Central</MadCap:xref>.</MadCap:conditionalText></body>
+</html>

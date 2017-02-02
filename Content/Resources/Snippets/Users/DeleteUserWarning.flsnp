@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central">
+    <body>
+        <div class="warning">
+            <div class="warningInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Red;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">Deleting a user permanently removes that user from the license, with no possibility of recovery<MadCap:conditionalText MadCap:conditions="General.Future"> xxx(what data is removed?)xxx</MadCap:conditionalText>. All access will be denied to the user on the license. However, if the user belongs to another Central license, the user is not removed from that license.</div>
+        </div>
+    </body>
+</html>
